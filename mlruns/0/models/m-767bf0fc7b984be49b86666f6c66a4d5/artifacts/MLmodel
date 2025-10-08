@@ -1,0 +1,22 @@
+artifact_path: file:///D:/ML%20Udemy%20Course/Network%20Security%20Project/mlruns/0/models/m-767bf0fc7b984be49b86666f6c66a4d5/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.16
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.1.4
+model_id: m-767bf0fc7b984be49b86666f6c66a4d5
+model_size_bytes: 5201023
+model_uuid: m-767bf0fc7b984be49b86666f6c66a4d5
+prompts: null
+run_id: 4c8c03bedd0542e786cba59d4fbe4e35
+utc_time_created: '2025-07-27 18:23:39.206063'

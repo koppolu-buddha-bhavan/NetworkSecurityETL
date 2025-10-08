@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ML%20Udemy%20Course/Network%20Security%20Project/mlruns/0/4c8c03bedd0542e786cba59d4fbe4e35/artifacts
+end_time: 1753640621984
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c8c03bedd0542e786cba59d4fbe4e35
+run_name: nimble-horse-368
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753640619135
+status: 3
+tags: []
+user_id: HP

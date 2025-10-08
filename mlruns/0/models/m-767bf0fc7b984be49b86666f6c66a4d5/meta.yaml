@@ -1,0 +1,10 @@
+artifact_location: file:///D:/ML%20Udemy%20Course/Network%20Security%20Project/mlruns/0/models/m-767bf0fc7b984be49b86666f6c66a4d5/artifacts
+creation_timestamp: 1753640619186
+experiment_id: '0'
+last_updated_timestamp: 1753640621978
+model_id: m-767bf0fc7b984be49b86666f6c66a4d5
+model_type: null
+name: model
+source_run_id: 4c8c03bedd0542e786cba59d4fbe4e35
+status: 2
+status_message: null

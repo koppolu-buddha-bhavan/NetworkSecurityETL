@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ML%20Udemy%20Course/Network%20Security%20Project/mlruns/0/03ba45192a4b47a6b0246a9237122596/artifacts
+end_time: 1753612229818
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03ba45192a4b47a6b0246a9237122596
+run_name: clean-boar-216
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753612226879
+status: 3
+tags: []
+user_id: HP
